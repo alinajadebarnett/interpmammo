@@ -9,7 +9,7 @@ people:
       title: "Principal Investigator ",
       department: "Earl D. McLean, Jr. Professor of Computer Science, Electrical and Computer Engineering, Statistical Science, Mathematics, and Biostatistics & Bioinformatics",
       institution: "Duke University",
-      institution_address: "1Research Drive Durham NC, 27708 USA",
+      institution_address: "Research Drive, Durham NC, 27708 USA",
       email: "hello@university.edu",
       office: "LSRC D342",
       image: "assets/img/people/cynthia_rudin.jpeg",
@@ -31,51 +31,105 @@ people:
       title: "Post-doctoral Fellow",
       department: "Computer Science",
       institution: "Duke University",
-      institution_address: "1 Main Street, Canada",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "hello@university.edu",
       image: "assets/img/people/alina_jade_barnett.jpeg",
       url: "https://alinajadebarnett.github.io/",
     }
   - {
-      name: "Alina Jade Barnett",
-      title: "Post-doctoral Fellow",
-      department: "Computer Science",
+      name: "Fides Schwartz",
+      title: "--",
+      department: "--",
       institution: "Duke University",
-      institution_address: "1 Main Street, Canada",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "hello@university.edu",
-      image: "assets/img/people/alina_jade_barnett.jpeg",
-      url: "https://alinajadebarnett.github.io/",
+      image: "assets/img/people/fides_schwartz.jpeg",
     }
   - {
-      name: "Alina Jade Barnett",
-      title: "Post-doctoral Fellow",
+      name: "Chaofan Chen",
+      title: "Assistant Professor in Computer Science",
       department: "Computer Science",
-      institution: "Duke University",
-      institution_address: "1 Main Street, Canada",
+      institution: "University of Maine",
+      institution_address: "5711 Boardman Hall, Room 348, Orono, ME 04469",
       email: "hello@university.edu",
-      image: "assets/img/people/alina_jade_barnett.jpeg",
-      url: "https://alinajadebarnett.github.io/",
+      office: "233 Boardman Hall"
+      image: "assets/img/people/chaofan_chen.jpeg",
+      url: "https://umaine.edu/scis/people/chaofan-chen/",
     }
   - {
-      name: "Alina Jade Barnett",
-      title: "Post-doctoral Fellow",
+      name: "Vaibhav Sharma",
+      title: "Undergraduate Student",
       department: "Computer Science",
       institution: "Duke University",
-      institution_address: "1 Main Street, Canada",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "hello@university.edu",
-      image: "assets/img/people/alina_jade_barnett.jpeg",
-      url: "https://alinajadebarnett.github.io/",
+      image: "assets/img/people/sample.jpeg",
     }
   - {
-      name: "Alina Jade Barnett",
-      title: "Post-doctoral Fellow",
+      name: "Jessie Ou",
+      title: "Undergraduate Student",
       department: "Computer Science",
       institution: "Duke University",
-      institution_address: "1 Main Street, Canada",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "hello@university.edu",
-      image: "assets/img/people/alina_jade_barnett.jpeg",
-      url: "https://alinajadebarnett.github.io/",
+      image: "assets/img/people/sample.jpeg",
     }
+  - {
+      name: "Anika Mitra",
+      title: "Undergraduate Student",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+  - {
+      name: "Jon Donnelly",
+      title: "PhD Student",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+  - {
+      name: "Luke Moffett",
+      title: "PhD Student",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+  - {
+      name: "Julia Yang",
+      title: "Research Assistant",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+  - {
+      name: "Sangwook Cheon",
+      title: "Undergraduate Student",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+  - {
+      name: "Giyoung Kim",
+      title: "Undergraduate Student",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Drive, Durham, NC 27708-0129",
+      email: "hello@university.edu",
+      image: "assets/img/people/sample.jpeg",
+    }
+
+
 
 courses:
   - { name: "Vector Calculus", url: "vector-calculus" }
