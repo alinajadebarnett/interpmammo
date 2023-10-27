@@ -11,12 +11,12 @@
         <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
       {% endfor %}
     {% endif %} -->
-    <h3>Peer-Reviewed Publications</h3>
+    <h4>Peer-Reviewed Publications</h4>
     {% for item in site.data.publications.index %}
       <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
     {% endfor %}
-
-    <h3>Papers in Progress</h3>
+    <br><br>
+    <h4>Papers in Progress</h4>
     {% for item in site.data.publications.working %}
     <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
     {% endfor %}
