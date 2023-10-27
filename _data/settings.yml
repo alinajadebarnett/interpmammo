@@ -52,7 +52,7 @@ people:
       institution: "University of Maine",
       institution_address: "5711 Boardman Hall, Room 348, Orono, ME 04469",
       email: "hello@university.edu",
-      office: "233 Boardman Hall"
+      office: "233 Boardman Hall",
       image: "assets/img/people/chaofan_chen.jpeg",
       url: "https://umaine.edu/scis/people/chaofan-chen/",
     }
