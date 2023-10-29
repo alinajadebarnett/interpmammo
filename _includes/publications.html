@@ -12,6 +12,7 @@
       {% endfor %}
     {% endif %} -->
     <h4>Peer-Reviewed Publications</h4>
+    <br>
     {% for item in site.data.publications.index %}
       <div class="row g-5 mb-5">
         <div class="col-md-6">
@@ -25,6 +26,7 @@
     {% endfor %}
     <br><br>
     <h4>Papers in Progress</h4>
+    <br>
     {% for item in site.data.publications.working %}
     <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
     {% endfor %}
