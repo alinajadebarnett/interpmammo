@@ -10,7 +10,7 @@ people:
       department: "Earl D. McLean, Jr. Professor of Computer Science, Electrical and Computer Engineering, Statistical Science, Mathematics, and Biostatistics & Bioinformatics",
       institution: "Duke University",
       institution_address: "Research Drive, Durham NC, 27708 USA",
-      email: "hello@university.edu",
+      email: "cynthia@cs.duke.edu",
       office: "LSRC D342",
       image: "assets/img/people/cynthia_rudin.jpeg",
       url: "https://users.cs.duke.edu/~cynthia/",
@@ -21,7 +21,7 @@ people:
       department: "Radiology, Biomedical Engineering, Electrical and Computer Engineering, Duke Cancer Institute",
       institution: "Duke University",
       institution_address: "2424 Erwin Road, Suite 302, Ravin Advanced Imaging Labs, Durham, NC 27705",
-      email: "hello@university.edu",
+      email: "joseph.lo@duke.edu",
       office: "Science Building 505",
       image: "assets/img/people/joseph_lo.jpeg",
       url: "https://radiology.duke.edu/profile/joseph-yuan-chieh-lo",
@@ -32,7 +32,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "alina.barnett@duke.edu",
       image: "assets/img/people/alina_jade_barnett.jpeg",
       url: "https://alinajadebarnett.github.io/",
     }
@@ -42,7 +42,7 @@ people:
       department: "--",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "fidesreginadorotheaann.schwartz@duke.edu",
       image: "assets/img/people/fides_schwartz.jpeg",
     }
   - {
@@ -51,7 +51,7 @@ people:
       department: "Computer Science",
       institution: "University of Maine",
       institution_address: "5711 Boardman Hall, Room 348, Orono, ME 04469",
-      email: "hello@university.edu",
+      email: "chaofan.chen@maine.edu",
       office: "233 Boardman Hall",
       image: "assets/img/people/chaofan_chen.jpeg",
       url: "https://umaine.edu/scis/people/chaofan-chen/",
@@ -62,7 +62,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "vaibhav.sharma@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -71,7 +71,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "--",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -80,7 +80,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "anika.mitra@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -89,7 +89,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "jon.donnelly@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -98,7 +98,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "luke.moffett@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -107,7 +107,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "julia.yang@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -116,7 +116,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "sangwook.cheon@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -125,7 +125,7 @@ people:
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "hello@university.edu",
+      email: "giyoung.kim@duke.edu",
       image: "assets/img/people/sample.jpeg",
     }
 
@@ -144,13 +144,13 @@ courses:
 
 contacts:
   - {
-      name: "Dr. Alina Jade Barnett",
-      title: "Title",
+      name: "Alina Jade Barnett",
+      title: "Post-doctoral Fellow",
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Dr, Durham, NC 27705, United States",
       phone: "(000) 000-0000",
       email: "hello@university.edu",
       office: "Office Location",
-      image: "assets/img/contact.jpg",
+      image: "assets/img/people/alina_jade_barnett.jpeg",
     }
