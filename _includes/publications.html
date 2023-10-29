@@ -13,7 +13,15 @@
     {% endif %} -->
     <h4>Peer-Reviewed Publications</h4>
     {% for item in site.data.publications.index %}
-      <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
+      <div class="row g-5 mb-5">
+        <div class="col-md-6">
+          <!-- <img src="{{ site.github.url }}/{{ item.image }}" alt="Contact" width="100%"> -->
+          <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Contact" width="100%">
+        </div>
+        <div class="col-md-6">
+          <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
+        </div>
+      </div>
     {% endfor %}
     <br><br>
     <h4>Papers in Progress</h4>
