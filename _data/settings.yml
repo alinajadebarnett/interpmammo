@@ -11,7 +11,7 @@ people:
       institution: "Duke University",
       institution_address: "Research Drive, Durham NC, 27708 USA",
       email: "cynthia@cs.duke.edu",
-      emailimg: assets/img/emails/cynthia_rudin_email.jpeg
+      emailimg: "assets/img/emails/cynthia_rudin_email.jpeg",
       office: "LSRC D342",
       image: "assets/img/people/cynthia_rudin.jpeg",
       url: "https://users.cs.duke.edu/~cynthia/",
