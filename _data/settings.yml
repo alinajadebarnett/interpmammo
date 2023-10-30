@@ -72,13 +72,11 @@ people:
       image: "assets/img/people/sample.jpeg",
     }
   - {
-      name: "Jessie Ou",
+      name: "Yanchen Jessie Ou",
       title: "Undergraduate Student",
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
-      email: "--",
-      emailimg: "",
       image: "assets/img/people/sample.jpeg",
     }
   - {
