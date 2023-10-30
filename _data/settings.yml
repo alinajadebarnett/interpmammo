@@ -46,7 +46,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "fidesreginadorotheaann.schwartz@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/fides_schwartz.jpeg",
       image: "assets/img/people/fides_schwartz.jpeg",
     }
   - {
@@ -56,7 +56,7 @@ people:
       institution: "University of Maine",
       institution_address: "5711 Boardman Hall, Room 348, Orono, ME 04469",
       email: "chaofan.chen@maine.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/chaofan_chen.jpeg",
       office: "233 Boardman Hall",
       image: "assets/img/people/chaofan_chen.jpeg",
       url: "https://umaine.edu/scis/people/chaofan-chen/",
@@ -68,7 +68,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "vaibhav.sharma@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/vaibhav_sharma.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -88,7 +88,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "anika.mitra@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/anika_mitra.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -98,7 +98,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "jon.donnelly@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/jon_donnelly.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -108,7 +108,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "luke.moffett@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/luke_moffett.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -118,7 +118,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "julia.yang@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/julia_yang.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -128,7 +128,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "sangwook.cheon@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/sangwook_cheon.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
   - {
@@ -138,7 +138,7 @@ people:
       institution: "Duke University",
       institution_address: "308 Research Drive, Durham, NC 27708-0129",
       email: "giyoung.kim@duke.edu",
-      emailimg: "",
+      emailimg: "assets/img/people/giyoung_kim.jpeg",
       image: "assets/img/people/sample.jpeg",
     }
 
