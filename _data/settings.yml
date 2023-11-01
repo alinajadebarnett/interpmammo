@@ -140,7 +140,28 @@ people:
       image: "assets/img/people/sample.jpeg",
     }
 
-
+graduated:
+  - {
+      name: "Chaofan (Daniel) Tao",
+    }
+  - {
+      name: "Jerry Fang",
+    }
+  - {
+      name: "Neel Gajjar",
+    }
+  - {
+      name: "Satvik Kishore",
+    }
+  - {
+      name: "Yunbo Liu",
+    }
+  - {
+      name: "Aman Mahapatra",
+    }
+  - {
+      name: "Yinhao Ren",
+    }
 
 courses:
   - { name: "Vector Calculus", url: "vector-calculus" }
