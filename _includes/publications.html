@@ -19,7 +19,7 @@
           <img src="{{ site.github.url }}/{{ item.image }}" alt="Contact" width="100%">
         </div>
         <div class="col-md-6">
-          <p><b><a href="{{ item.url }}">{{ item.name }}</a></b></p>
+          <p><b><a href="{{ item.url }}">{{ item.name }}</a></b> {{ item.people }}</p>
         </div>
       </div>
     {% endfor %}
@@ -27,7 +27,7 @@
     <h4>Papers under review / working papers</h4>
     <br>
     {% for item in site.data.publications.working %}
-    <p><b><a href="{{ item.url }}">{{ item.name }}</a></b></p>
+    <p>{{ item.name }}</p>
     {% endfor %}
   </div>
 </div>
