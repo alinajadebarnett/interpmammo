@@ -11,8 +11,8 @@ index:
 - {name: 'Interpretable Mammographic Image Classification using Cased-Based Reasoning and Deep Learning. Alina Jade Barnett, Fides Regina Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Y. Lo, and Cynthia Rudin. IJCAI-21 Workshop on Deep Learning, Case-Based Reasoning, and AutoML: Present and Future Synergies. (2021).', url: 'https://arxiv.org/abs/2107.05605', image: 'assets/img/papers/classification.jpeg'}
 
 working:
-- {name: 'Jon Donnelly, Luke Moffett, Alina Jade Barnett, Hari Trivedi, Fides Schwartz, Joseph Lo*, Cynthia Rudin*. “AsymMirai: Interpretable Breast Cancer Risk Prediction from Mammograms.”', url: ''}
-- {name: 'Active Learning and Pseudo Labeling for Breast Mass Segmentation in 2D Digital Mammography. Vaibhav Sharma, Sangwook Cheon, Giyoung Kim, Julia Yang, Alina Jade Barnett, Neal Hall, Avivah Wang, Fides Regina Schwartz, Chaofan Chen, Lars Grimm, Joseph Lo and Cynthia Rudin. (2023).', url: ''}
+- {name: '"AsymMirai: Interpretable Breast Cancer Risk Prediction from Mammograms." Jon Donnelly, Luke Moffett, Alina Jade Barnett, Hari Trivedi, Fides Schwartz, Joseph Lo*, Cynthia Rudin*.', url: ''}
+- {name: '"Active Learning and Pseudo Labeling for Breast Mass Segmentation in 2D Digital Mammography." Vaibhav Sharma, Sangwook Cheon, Giyoung Kim, Julia Yang, Alina Jade Barnett, Neal Hall, Avivah Wang, Fides Regina Schwartz, Chaofan Chen, Lars Grimm, Joseph Lo and Cynthia Rudin.', url: ''}
 
 
 # - {name: '', url: ''}
